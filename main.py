@@ -11,3 +11,8 @@ with col2:
     st.title("Ivan Savchyn")
     content = """Hi, I am Ivan! I am a python programmer."""
     st.info(content)
+
+content2 = """
+Below you can find some of apps I have built in Python. Feel free to contact me!
+"""
+st.write(content2)
